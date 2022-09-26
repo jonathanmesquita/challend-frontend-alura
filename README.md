@@ -1,4 +1,4 @@
-# Nome do meu projeto
+# challend-frontend-alura
 
 Rápida descrição do objetivo de fazer esse projeto
 
