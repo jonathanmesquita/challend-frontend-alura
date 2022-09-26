@@ -10,7 +10,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](#vitrinedev)
+![](https://github.com/jonathanmesquita/challend-frontend-alura/blob/main/Home.png#vitrinedev)
 
 ## Detalhes do projeto
 
