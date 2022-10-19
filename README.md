@@ -6,8 +6,10 @@ Rápida descrição do objetivo de fazer esse projeto
 | -------------  | --- |
 | :sparkles: Nome        | **challend-frontend-alura**
 | :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :rocket: URL         | [Exemplo do desafio] https://url-deploy.com.br
+| :fire: Desafio     |  [Link do Desafio]https://url-do-desafio.com.br
+
+
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://github.com/jonathanmesquita/challend-frontend-alura/blob/main/preview.png#vitrinedev)
