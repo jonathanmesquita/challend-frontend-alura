@@ -6,8 +6,8 @@ Rápida descrição do objetivo de fazer esse projeto
 | -------------  | --- |
 | :sparkles: Nome        | **challend-frontend-alura**
 | :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | [Exemplo do desafio] https://url-deploy.com.br
-| :fire: Desafio     |  [Link do Desafio]https://url-do-desafio.com.br
+| :rocket: URL         | [Exemplo do desafio](https://url-deploy.com.br)
+| :fire: Desafio     |  [Link do Desafio](https://url-do-desafio.com.br)
 
 
 
