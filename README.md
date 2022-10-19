@@ -1,4 +1,4 @@
-# challend-frontend-alura
+# Challend-frontend-alura
 
 Rápida descrição do objetivo de fazer esse projeto
 
